@@ -1,6 +1,8 @@
 plantuml-clj
 =============
 
+[![tests](https://github.com/jeremyvdw/plantuml-clj/actions/workflows/clojure.yml/badge.svg?branch=main)](https://github.com/jeremyvdw/plantuml-clj/actions/workflows/clojure.yml)
+
 [PlantUML](http://plantuml.sourceforge.net) is an open-source tool that uses simple textual descriptions to draw UML diagrams. Diagrams are defined using a simple and intuitive language.
 
 [plantuml-clj](https://github.com/jeremyvdw/plantuml-clj) is a plugin for generating UML diagrams using PlantUML.
