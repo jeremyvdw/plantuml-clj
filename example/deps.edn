@@ -1,0 +1,6 @@
+{:src ["src"]
+ :aliases {:plantuml {:extra-deps {plantuml-clj/plantuml-clj {:local/root "../"}}
+                      :exec-fn plantuml-clj.core/do-plantuml
+                      :exec-args {:input-dir "doc/*.puml"
+                                  :fmt :png
+                                  :output-dir "target/doc"}}}}

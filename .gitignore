@@ -1,0 +1,12 @@
+pom.xml
+pom.xml.asc
+*.jar
+*.tar
+lib/
+classes/
+target/
+checkouts/
+.nrepl-port
+*swp
+.DS_Store
+.cpcache
